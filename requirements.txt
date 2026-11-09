@@ -1,0 +1,9 @@
+flask
+flask-cors
+flask-sqlalchemy
+pyjwt
+torch
+torchvision
+timm
+pillow
+numpy
